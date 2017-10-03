@@ -1,1 +1,1 @@
-# helloworld - A classic project from Mikky
+# helloworld - A classic project from Mikky Unauth mode
